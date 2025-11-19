@@ -1,5 +1,7 @@
 # Лабораторная работа №6
 
+Balagurs Fate 3 Enterprise Edition
+
 ## Вариант №5
 Юниты:
 - Медведь
